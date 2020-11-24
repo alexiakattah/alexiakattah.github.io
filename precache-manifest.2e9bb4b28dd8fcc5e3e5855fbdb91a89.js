@@ -1,39 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8dff90b4a455591322f716aca29b5a47",
+    "revision": "e142f20033c380d7654b1d269052832a",
     "url": "/index.html"
   },
   {
-    "revision": "2d19bd3099fff9f46110",
+    "revision": "c9433565c78800f21b5d",
     "url": "/static/css/3.00373544.chunk.css"
   },
   {
-    "revision": "d34dff1adae1bcc7ac9e",
+    "revision": "81951ddab01987ea493a",
     "url": "/static/css/4.a922a401.chunk.css"
   },
   {
-    "revision": "4d5d94e201fa49a15983",
+    "revision": "c5f95d7bd8e070e5f83f",
     "url": "/static/css/main.5db76056.chunk.css"
   },
   {
-    "revision": "2fd6019056990fa7d77d",
-    "url": "/static/js/2.8af0b796.chunk.js"
+    "revision": "7049920a7a9b0ca07271",
+    "url": "/static/js/2.e66a4e8f.chunk.js"
   },
   {
-    "revision": "2d19bd3099fff9f46110",
-    "url": "/static/js/3.e9368fd5.chunk.js"
+    "revision": "c9433565c78800f21b5d",
+    "url": "/static/js/3.c1adc31a.chunk.js"
   },
   {
-    "revision": "d34dff1adae1bcc7ac9e",
-    "url": "/static/js/4.54cbe75a.chunk.js"
+    "revision": "81951ddab01987ea493a",
+    "url": "/static/js/4.2be121bd.chunk.js"
   },
   {
-    "revision": "4d5d94e201fa49a15983",
-    "url": "/static/js/main.69681681.chunk.js"
+    "revision": "c5f95d7bd8e070e5f83f",
+    "url": "/static/js/main.ae285204.chunk.js"
   },
   {
-    "revision": "908ab731397a481b7be3",
-    "url": "/static/js/runtime-main.a7bb3fdd.js"
+    "revision": "9cff05e8084c5ada9aa5",
+    "url": "/static/js/runtime-main.e3e3785c.js"
+  },
+  {
+    "revision": "73d950fadf8c0ad89eac5f5ad569015b",
+    "url": "/static/media/0.73d950fa.png"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -70,6 +74,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8ddf76a14a2e3ad3ba62b46d49a75a74",
     "url": "/static/media/facebookLogo.8ddf76a1.png"
+  },
+  {
+    "revision": "2db9a6a51ab9c546c25f1221d053822e",
+    "url": "/static/media/freelance.2db9a6a5.png"
   },
   {
     "revision": "c24ba79111a90758a3a472a906ab2901",
@@ -114,6 +122,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "4b2938b9f5ea2f1ddbd45dccaff628bc",
     "url": "/static/media/quoraLogo.4b2938b9.png"
+  },
+  {
+    "revision": "019a82fdfd490e6877097c3a2bcfd460",
+    "url": "/static/media/rocket.019a82fd.jpg"
   },
   {
     "revision": "25018d29d5ab115bc51c3e9a2d92f90f",
