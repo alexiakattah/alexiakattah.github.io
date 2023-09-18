@@ -1,0 +1,129 @@
+* {
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.background-image {
+  background-image: url('./assets/background.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  color: white;
+}
+
+.button-github {
+  border: 1px solid #CC3232;
+  background: none;
+  color: #CC3232;
+  width: 15%;
+  border-radius: 10px;
+}
+
+.button-github:hover {
+  background: #CC3232;
+  color: white;
+  transition: 0.5s;
+}
+
+.section-conhecimentos {
+  background-color: #161616;
+  color: white;
+
+}
+
+.knowledge img {
+  width: 20%;
+  margin-right: .5rem;
+}
+
+.knowledge {
+  text-align: left;
+}
+
+.knowledge span {
+  color: #707070;
+  font-weight: 300;
+}
+
+.knowledge p {
+  font-size: 1.2rem;
+}
+
+.spacing {
+  margin-top: 5rem !important;
+  margin-bottom: 5rem !important;
+
+}
+
+.section-about-me {
+  background-color: #222222;
+  color: white;
+  font-weight: 500;
+}
+
+.title-developer {
+  color: #CC3232;
+}
+
+.text-about-me {
+  color: #868686;
+
+}
+
+.progress-color {
+  background-color: #CC3232 !important;
+}
+
+.section-contact {
+  background-color: #161616;
+  color: white;
+}
+
+.icon-contact p {
+  color: #707070;
+  font-weight: 300;
+  margin: 0;
+}
+
+.icon-contact img {
+  width: 50px;
+  margin-right: 1rem;
+}
+
+.icon-contact {
+  align-items: center;
+  margin-bottom: 2rem;
+}
+
+.form-contact input {
+  width: 100%;
+  border: 1px solid #707070;
+  background: none;
+  border-radius: 10px;
+  padding: 0.4rem 0.8rem;
+  color: white;
+  font-weight: 300;
+  margin-bottom: 2rem;
+}
+
+.form-contact textarea {
+  width: 100%;
+  border: 1px solid #707070;
+  background: none;
+  border-radius: 10px;
+  padding: 0.4rem 0.8rem;
+  color: white;
+  font-weight: 300;
+  margin-bottom: 2rem;
+}
+
+.form-contact button {
+  width: 100%;
+  background-color: #CC3232;
+  border: none;
+  padding: 0.4rem 0.8rem;
+  border-radius: 10px;
+  color: white;
+}
